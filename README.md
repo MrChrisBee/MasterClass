@@ -1,2 +1,1 @@
-# MasterClass
-Master the Topic
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MrChrisBee/MasterClass.git/HEAD)
