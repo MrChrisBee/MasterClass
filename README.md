@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MrChrisBee/MasterClass.git/HEAD?labpath=masterIt.ipynb)
+
 Hello,
 this is a Attemp to get a solid base for preperation for a test. 
 It should be easy to create a new Instance of MasterClass whitch then should be deployed 
